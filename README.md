@@ -5,11 +5,10 @@ A responsive dark-themed portfolio built with HTML, CSS, and a small amount of J
 ## Project structure
 
 ```text
-developer-portfolio/
-├── index.html   # Page content and sections
-├── style.css    # Theme, layout, responsive styles
-├── script.js    # Mobile navigation interaction
-└── README.md    # Setup and publishing notes
+index.html   # Page content and sections
+style.css    # Theme, layout, responsive styles
+script.js    # Mobile navigation interaction
+README.md    # Setup and publishing notes
 ```
 
 ## Run locally
@@ -35,12 +34,11 @@ Only describe work you personally did. Do not publish confidential code, private
 
 ## Publish with GitHub Pages
 
-1. Create a GitHub repository named `your-username.github.io` (replace with your GitHub username).
-2. Upload `index.html`, `style.css`, `script.js`, and `README.md` to the repository root.
-3. In the repository, open **Settings → Pages**.
-4. Under **Build and deployment**, select **Deploy from a branch**.
-5. Choose branch `main` and folder `/ (root)`, then save.
-6. Wait for the deployment to finish. Your site should be available at `https://your-username.github.io/`.
+1. This project is published from the `rizvonnavruzov/my_portfolio` repository.
+2. In the repository, open **Settings → Pages**.
+3. Under **Build and deployment**, select **Deploy from a branch**.
+4. Choose branch `main` and folder `/ (root)`, then save.
+5. Wait for the deployment to finish. Your site should be available at `https://rizvonnavruzov.github.io/my_portfolio/`.
 
 GitHub may take a few minutes to publish the first version.
 
